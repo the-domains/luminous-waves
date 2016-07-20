@@ -1,0 +1,14 @@
+layout_spectrum: 0.20607402455061674
+typography_spectrum: 0.4574182580690831
+color:
+  brandStrength: 0.2080299248918891
+  lightness: 0.7818163498304784
+  saturation: 0.17402404989115894
+  rhythmicContrast: 0.6375879994593561
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: luminous waves
