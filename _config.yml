@@ -6,9 +6,9 @@ color:
   saturation: 0.17402404989115894
   rhythmicContrast: 0.6375879994593561
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#CFC291'
+    - '#FFF6C5'
+    - '#A1E8D9'
+    - '#FF712C'
+    - '#695D46'
 name: luminous waves
